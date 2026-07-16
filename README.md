@@ -138,13 +138,13 @@ numpy
 > Replace with your screenshot.
 
 ```text
-Dashboard.png
+project.png
 ```
 
 or
 
 ```markdown
-![Dashboard](Dashboard.png)
+![Dashboard](project.png)
 ```
 
 ---
