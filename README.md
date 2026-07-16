@@ -1,12 +1,42 @@
-# 📊 RESALES COMPANY – Sales Performance Dashboard
+<div align="center">
 
-A **Business Intelligence project** that transforms raw sales data into meaningful, actionable insights using **Power BI**, **MySQL**, and **Python**.
+# 📊 RESALES COMPANY
+### Sales Performance Dashboard
+
+**A Business Intelligence project that transforms raw sales data into meaningful, actionable insights**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/chaurasiyalucky241/RESALES-COMPANY-Sales-Dashboard?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/chaurasiyalucky241/RESALES-COMPANY-Sales-Dashboard?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/chaurasiyalucky241/RESALES-COMPANY-Sales-Dashboard?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)
 
 This dashboard helps businesses monitor sales performance, customer behavior, regional sales, payment methods, shipping costs, and product performance through interactive, easy-to-understand visualizations.
+
+</div>
+
+---
+
+## 📑 Table of Contents
+
+- [🎯 Project Overview](#-project-overview)
+- [✨ Key Features](#-key-features)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [📁 Project Structure](#-project-structure)
+- [⚙️ How It Works](#️-how-it-works)
+- [🚀 Getting Started](#-getting-started)
+- [📸 Dashboard Preview](#-dashboard-preview)
+- [📌 Future Enhancements](#-future-enhancements)
+- [📬 Connect With Me](#-connect-with-me)
 
 ---
 
 ## 🎯 Project Overview
+
 
 The RESALES COMPANY Sales Performance Dashboard is designed to give stakeholders a **360° view** of business operations by consolidating raw sales data into a single, interactive reporting layer. It bridges the gap between messy transactional data and clear, decision-ready insights.
 
@@ -26,11 +56,12 @@ The RESALES COMPANY Sales Performance Dashboard is designed to give stakeholders
 
 ## 🛠️ Tech Stack
 
-| Tool | Purpose |
-|------|---------|
-| **Power BI** | Dashboard design & interactive visualizations |
-| **MySQL** | Data storage and querying |
-| **Python** | Data cleaning, transformation, and analysis |
+| Icon | Tool | Purpose |
+|:---:|------|---------|
+| 📊 | **Power BI** | Dashboard design & interactive visualizations |
+| 🗄️ | **MySQL** | Data storage and querying |
+| 🐍 | **Python** | Data cleaning, transformation, and analysis |
+| 🐼 | **Pandas** | Data wrangling & manipulation |
 
 ---
 
@@ -100,11 +131,19 @@ pip install -r requirements.txt
 
 ## 📬 Connect With Me
 
-**Lucky Chaurasiya**
+<div align="center">
 
-- 🔗 LinkedIn: [linkedin.com/in/lucky-chaurasiya-97946336b](https://www.linkedin.com/in/lucky-chaurasiya-97946336b)
-- 💻 GitHub: [github.com/chaurasiyalucky241](https://github.com/chaurasiyalucky241)
+### Lucky Chaurasiya
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucky-chaurasiya-97946336b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaurasiyalucky241)
+
+</div>
 
 ---
 
-⭐ If you found this project useful, consider giving it a star on GitHub!
+<div align="center">
+
+⭐ **If you found this project useful, consider giving it a star on GitHub!** ⭐
+
+</div>
