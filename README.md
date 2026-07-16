@@ -210,25 +210,30 @@ RESALES-Sales-Dashboard
 
 ---
 
+---
+
 # 👨‍💻 Author
 
-**Lucky Chaurasiya**
+<div align="center">
 
-🎓 BCA (AIDA) Student
+## Lucky Chaurasiya
 
-🏫 LNCT University, Bhopal
+🎓 **BCA (AIDA) Student**  
+🏫 **LNCT University, Bhopal**
 
-🌐 GitHub:
-https://github.com/yourusername
+### 📬 Connect with Me
 
-💼 LinkedIn:
-https://linkedin.com/in/yourprofile
+[![GitHub](https://img.shields.io/badge/GitHub-chaurasiyalucky241-181717?style=for-the-badge&logo=github)](https://github.com/chaurasiyalucky241)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucky%20Chaurasiya-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucky-chaurasiya-97946336b)
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Star this Repository if you like this project!
+### ⭐ If you found this project helpful, please give it a Star!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=EF7C5B&height=120&section=footer"/>
 
