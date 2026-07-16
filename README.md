@@ -144,7 +144,7 @@ project.png
 or
 
 ```markdown
-![Dashboard](project.png)
+<img src="project.png" width="1000"/>
 ```
 
 ---
