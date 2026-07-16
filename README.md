@@ -1,329 +1,235 @@
 <div align="center">
 
-# 🚀 RESALES COMPANY SALES PERFORMANCE DASHBOARD
+# 📊 RESALES COMPANY
+## 🚀 Sales Performance Dashboard
 
-### Transforming Raw Sales Data into Actionable Business Intelligence
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=EF7C5B&center=true&vCenter=true&width=700&lines=Power+BI+Sales+Dashboard;Python+%7C+MySQL+%7C+Pandas+%7C+Matplotlib;Business+Intelligence+Project;Data+Analytics+Portfolio+Project" />
 
-<img src="screenshots/banner.png" width="100%" alt="Dashboard Banner">
-
-<br>
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-<br>
-
-![GitHub last commit](https://img.shields.io/github/last-commit/chaurasiyalucky241/RESALES-COMPANY-Sales-Dashboard)
-![GitHub repo size](https://img.shields.io/github/repo-size/chaurasiyalucky241/RESALES-COMPANY-Sales-Dashboard)
-![GitHub stars](https://img.shields.io/github/stars/chaurasiyalucky241/RESALES-COMPANY-Sales-Dashboard?style=social)
-![License](https://img.shields.io/badge/License-MIT-blue)
-
-<br>
-
-### ⭐ From Raw Data → Python ETL → Power BI Dashboard
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 📌 Project Overview
+# 📌 About Project
 
-Business decisions should be driven by insights—not spreadsheets.
+This project is a complete **Sales Performance Dashboard** developed using **Power BI**, **MySQL**, and **Python**.
 
-The **RESALES COMPANY Sales Dashboard** transforms raw sales data into an interactive business intelligence solution using **MySQL, Python, Pandas, and Power BI**.
-
-The dashboard enables users to monitor KPIs, identify sales trends, analyze customer behavior, compare regional performance, and make data-driven decisions through interactive visualizations.
+The dashboard converts raw sales data into meaningful business insights using KPIs, charts, DAX measures, SQL queries, and interactive filters.
 
 ---
 
-# 🎯 Business Objectives
+# 🎯 Objectives
 
-- 📈 Track Sales Performance
-- 👥 Understand Customer Behavior
-- 🌍 Compare Regional Sales
-- 📦 Analyze Product Performance
-- 💳 Monitor Payment Preferences
-- 🚚 Evaluate Shipping Costs
-- 📊 Build Executive-Level Reports
+- Analyze sales performance
+- Compare regional sales
+- Track monthly trends
+- Identify top-selling products
+- Monitor customer behavior
+- Analyze payment methods
+- Measure sales achievement
+- Support business decisions using data
+
+---
+
+# 🛠️ Technologies Used
+
+| Tool | Purpose |
+|------|----------|
+| Power BI | Dashboard & Visualization |
+| MySQL | Data Storage & SQL Queries |
+| Python | Data Cleaning |
+| Pandas | Data Analysis |
+| Matplotlib | Data Visualization |
+| CSV Dataset | Sales Data |
+
+---
+
+# 📂 Dataset Columns
+
+- Order ID
+- Product
+- Region
+- Customer Name
+- Quantity
+- Unit Price
+- Total Price
+- Store Location
+- Payment Method
+- Shipping Cost
+- Salesperson
+- Discount
+- Order Date
+- Delivery Date
+- Region Manager
 
 ---
 
 # 📊 Dashboard KPIs
 
-| KPI | Description |
-|------|-------------|
-| 💰 Total Sales | Overall Revenue |
-| 📦 Total Orders | Completed Orders |
-| 👥 Customers | Unique Customers |
-| 📈 Sales Growth | Month-over-Month Growth |
-| 💳 Payment Analysis | Payment Distribution |
-| 🚚 Shipping Cost | Logistics Expenses |
-| 🌎 Regional Sales | Region-wise Performance |
-| 🏆 Best Products | Top Performing Products |
+✅ Total Sales
+
+✅ Total Customers
+
+✅ Total Orders
+
+✅ Total Quantity Sold
+
+✅ Sales Achievement
+
+✅ Average Delivery Days
+
+✅ Shipping Cost
 
 ---
 
-# ✨ Dashboard Features
+# 📈 Dashboard Visuals
 
-## 📈 Executive Sales Overview
-
-- Total Revenue
-- Sales Growth
-- Order Analysis
-- Revenue Trends
+- 📊 Monthly Sales Trend
+- 📍 Regional Sales Performance
+- 🛒 Top Products by Sales
+- 💳 Payment Method Analysis
+- 🎯 Sales Achievement Gauge
+- 📦 Sales Summary
+- 🎛 Interactive Filters
 
 ---
 
-## 🌍 Regional Analysis
+# 🗄️ MySQL Queries
 
+The project includes SQL analysis such as:
+
+- Total Sales
 - Region-wise Sales
-- Geographic Performance
-- Sales Distribution
+- Top Products
+- Store Performance
+- Customer Analysis
+- Payment Method Analysis
+- Shipping Cost Analysis
 
 ---
 
-## 👥 Customer Insights
+# 🐍 Python Analysis
 
-- Customer Segmentation
-- Repeat Customers
-- Purchase Frequency
+Python was used for:
 
----
+- Data Cleaning
+- Missing Value Detection
+- Duplicate Removal
+- Data Visualization
+- Exploratory Data Analysis (EDA)
 
-## 📦 Product Performance
+Libraries:
 
-- Top Selling Products
-- Low Performing Products
-- Product Categories
-
----
-
-## 💳 Payment Insights
-
-- Card
-- UPI
-- Cash
-- Wallet
-- Other Methods
+```python
+pandas
+matplotlib
+numpy
+```
 
 ---
 
-## 🚚 Shipping Analysis
+# 📷 Dashboard Preview
 
-- Shipping Cost
-- Delivery Trends
-- Cost Distribution
-
----
-
-# ⚙️ Data Pipeline
+> Replace with your screenshot.
 
 ```text
-                     DATA PIPELINE
+Dashboard.png
+```
 
-        ┌───────────────┐
-        │   MySQL DB    │
-        └───────┬───────┘
-                │
-                ▼
-      Python + Pandas (ETL)
-                │
-                ▼
-        Cleaned Dataset
-                │
-                ▼
-      Power BI Data Model
-                │
-                ▼
- Interactive Sales Dashboard
+or
+
+```markdown
+![Dashboard](Dashboard.png)
 ```
 
 ---
 
-# 🛠 Technology Stack
+# 📁 Project Structure
 
-| Tool | Purpose |
-|------|----------|
-| Power BI | Dashboard Development |
-| Python | Data Cleaning |
-| Pandas | Data Transformation |
-| MySQL | Database |
-| Power Query | ETL |
-| DAX | KPI Calculations |
-
----
-
-# 📂 Project Structure
-
-```text
-RESALES-COMPANY-Sales-Dashboard
+```
+RESALES-Sales-Dashboard
 │
-├── dashboard/
-│   └── Sales Dashboard.pbix
-│
-├── data/
-│   ├── Raw Dataset.xlsx
-│   └── Clean Dataset.xlsx
-│
-├── python/
-│   ├── clean_data.py
-│   └── preprocessing.py
-│
-├── sql/
-│   ├── database.sql
-│   └── queries.sql
-│
-├── screenshots/
-│   ├── dashboard.png
-│   ├── overview.png
-│   └── sales.gif
-│
-├── requirements.txt
-└── README.md
+├── Dashboard.pbix
+├── Product-Sales-Region.csv
+├── Sales.sql
+├── Project.ipynb
+├── Dashboard.png
+├── README.md
+└── LICENSE
 ```
 
 ---
 
-# 📸 Dashboard Preview
+# ✨ Features
 
-<p align="center">
+✔ Interactive Dashboard
 
-<img src="screenshots/dashboard.png" width="95%">
+✔ Professional UI
 
-<br><br>
+✔ Custom Color Theme
 
-<img src="screenshots/overview.png" width="95%">
+✔ Dynamic KPIs
 
-</p>
+✔ DAX Measures
 
----
+✔ SQL Analysis
 
-# 📈 Business Insights
+✔ Python Data Cleaning
 
-- Revenue trends reveal seasonal growth patterns.
-- Top-performing products contribute most of the revenue.
-- Certain regions require marketing attention.
-- Shipping costs impact profit margins.
-- Digital payment methods dominate customer transactions.
+✔ Business Insights
 
 ---
 
-# 🚀 Getting Started
+# 📚 What I Learned
 
-## Clone Repository
-
-```bash
-git clone https://github.com/chaurasiyalucky241/RESALES-COMPANY-Sales-Dashboard.git
-```
-
----
-
-## Navigate into Project
-
-```bash
-cd RESALES-COMPANY-Sales-Dashboard
-```
+- Power BI Dashboard Development
+- Data Cleaning
+- Data Modeling
+- DAX Measures
+- SQL Queries
+- KPI Design
+- Dashboard UI Design
+- Business Intelligence
+- Data Storytelling
 
 ---
 
-## Install Dependencies
+# 🚀 Future Improvements
 
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## Import Database
-
-Run SQL scripts inside:
-
-```text
-sql/
-```
+- Real-Time Dashboard
+- SQL Server Integration
+- Power BI Service Deployment
+- Forecasting
+- AI Visuals
+- Mobile Dashboard
 
 ---
 
-## Run Python Scripts
+# 👨‍💻 Author
 
-```bash
-python clean_data.py
-```
+**Lucky Chaurasiya**
 
----
+🎓 BCA (AIDA) Student
 
-## Open Dashboard
+🏫 LNCT University, Bhopal
 
-Open the Power BI file inside
+🌐 GitHub:
+https://github.com/yourusername
 
-```text
-dashboard/
-```
-
-Click **Refresh** to load the latest data.
-
----
-
-# 📋 Requirements
-
-- Power BI Desktop
-- Python 3.10+
-- MySQL Server
-- pandas
-- mysql-connector-python
-
----
-
-# 🔮 Future Improvements
-
-- [ ] Machine Learning Sales Forecasting
-- [ ] Customer Segmentation
-- [ ] Power BI Service Deployment
-- [ ] Automated ETL Pipeline
-- [ ] Real-Time Dashboard
-- [ ] Email Report Automation
-
----
-
-# 🤝 Contributing
-
-Contributions are welcome.
-
-If you'd like to improve this project:
-
-1. Fork the repository
-2. Create a new branch
-3. Commit your changes
-4. Open a Pull Request
-
----
-
-# 📄 License
-
-This project is licensed under the **MIT License**.
+💼 LinkedIn:
+https://linkedin.com/in/yourprofile
 
 ---
 
 <div align="center">
 
-# 👨‍💻 Author
+### ⭐ Star this Repository if you like this project!
 
-## Lucky Chaurasiya
-
-### 🎓 BCA Student | Data Analytics Enthusiast
-
-<a href="https://github.com/chaurasiyalucky241">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/lucky-chaurasiya-97946336b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
----
-
-### ⭐ If you found this project helpful, don't forget to leave a Star!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=EF7C5B&height=120&section=footer"/>
 
 </div>
